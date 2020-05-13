@@ -1,1 +1,3 @@
 # SignInTest
+
+## Sample Registration View
